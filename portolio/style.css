@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+}
+.top{
+   background-color: rgb(90, 88, 88);
+   display: flex;
+   justify-content: center;
+   padding: 30px 0 0 0 ;
+   height: 150px;
+   
+   
+}
+.pic{
+    border-radius: 50%;
+    border: rgb(248, 212, 10) dotted 5px;
+}
+.name{
+    background-color: rgb(255, 218, 11);
+    display: flex;
+    position: absolute;
+    top: 160px;
+    left: 500px;
+    padding: 10px;
+    font-size: 44px;
+    border-radius: 5px;
+}
+.space{
+    background-color: rgb(250, 244, 244);
+
+}
+.space2{
+   background-color: rgb(90, 88, 88);
+
+}
+.left{
+    margin-left: 30px;
+    margin-right: 54%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.right{
+    margin-left: 54%;
+    margin-right: 40px;
+    position: absolute;
+    top: 300px;
+    
+}
+.vertical{
+    border-left: 3px solid rgb(216, 214, 214);
+    height: 65em;
+    position: absolute;
+    left: 50%;
+    top: 300px;
+}
+.fa-user-circle{
+    padding: 10px;
+    border-radius: 50%;
+    background: black;
+    color: yellow;
+    border: 5px dotted yellow;
+
+}
+.fa-flask{
+    padding: 10px;
+    border-radius: 50%;
+    background: black;
+    color: yellow;
+    border: 5px dotted yellow;
+}
+.fa-briefcase{
+    padding: 10px;
+    border-radius: 50%;
+    background: black;
+    color: yellow;
+    border: 5px dotted yellow;
+
+
+}
+.fa-graduation-cap{
+    padding: 10px;
+    border-radius: 50%;
+    background: black;
+    color: yellow;
+    border: 5px dotted yellow;
+}
